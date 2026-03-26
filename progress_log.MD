@@ -15,3 +15,6 @@ passwords with three OUs. After this, I watched a YT video from EastCharmer wher
 and worked on implementing Computer->Policy password GPOs. Within the 'Password Policy GPO' we changed attributes such as complexity, minumum length, age, etc. So far pretty basic
 and conceptually digestable. I plan to follow the rest of the GPOs from the tutorial and simultaneously document what I have learned from the beginner portion of the project. I for see 
 more in depth tool exploration in AD across configuring DHCP so that users can browse the internet, and manually scripting users and groups using powershell. 
+
+
+Mar262026: I am now continuning to follow EastCharmers video on establishing GPO. Today we did not feel like working much, but I wanted to maintain a level of consistency so I decided to do something for short while than nothing at all. I performed 'Drive Mapping' following along with the tutorial, but if I am being entirely honest, I have no idea how it works or what it is, definitely something I should come back to and revisit. 
